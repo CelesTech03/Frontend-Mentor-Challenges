@@ -9,6 +9,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
 - [Author](#author)
 
 ## Overview
@@ -19,7 +20,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [GitHub Repo](https://github.com/CelesTech03/Frontend-Mentor-Challenges-Newbie/tree/main/qr-code-component/qr-code-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Netlify](https://celi-qr-code-component.netlify.app/)
 
 ## My process
 
@@ -29,6 +30,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - CSS custom properties
 - Flexbox
 - [React](https://reactjs.org/) + Vite
+
+### What I learned
+
+How to use Vite to build a React App and how to deploy my first website to Netlify.
 
 ## Author
 
