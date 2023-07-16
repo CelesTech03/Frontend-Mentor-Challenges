@@ -7,7 +7,7 @@ const QR = () => {
       <div className="main-container">
         <div className="image-and-typography-container">
           <div className="image-and-typography-content">
-            <img src={QRImage} />
+            <img src={QRImage} alt="QR code image" />
             <h3>Improve your front-end skills by building projects</h3>
             <p>
               Scan the QR code to visit Frontend Mentor and take your coding
