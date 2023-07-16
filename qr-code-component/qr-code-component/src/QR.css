@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2&display=swap');
+
+body {
+  margin: 0;
+  background-color: hsl(212, 45%, 89%);
+}
+
+.main-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 10%;
+}
+
+img {
+  border-radius: 20px;
+  width: 250px;
+}
+
+.image-and-typography-container {
+  background-color: hsl(0, 0%, 100%);
+  border-radius: 20px;
+  width: 280px;
+}
+
+.image-and-typography-content {
+  padding: 12px;
+  text-align: center;
+}
+
+h3 {
+  margin-top: 8px;
+  color: hsl(218, 44%, 22%);
+  font-family: 'Outfit', sans-serif;
+  font-weight: 700;
+}
+
+p {
+  color: hsl(220, 15%, 55%);
+  font-size: 15px;
+  font-family: 'Outfit', sans-serif;
+  font-weight: 400;
+}
+
+.attribution {
+  font-size: 12px;
+  margin-top: 8px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}

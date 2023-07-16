@@ -1,12 +1,7 @@
-import "./App.css";
 import QR from "./QR";
 
 function App() {
-  return (
-    <>
-      <QR />
-    </>
-  );
+  return <QR />;
 }
 
 export default App;
